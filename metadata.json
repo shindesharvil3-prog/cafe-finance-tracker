@@ -1,0 +1,8 @@
+{
+  "name": "Cafe Daily Ledger",
+  "description": "Simple, mobile-friendly daily finance tracker and profit projector for cafes and coffee shops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
